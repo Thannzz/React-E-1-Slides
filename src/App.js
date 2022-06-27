@@ -21,8 +21,6 @@ const data = [
   }
 ];
 
-
-
 export default function App() {
   const [index, setIndex] = useState(0);
   function handlePrev(e) {

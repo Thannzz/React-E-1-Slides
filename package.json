@@ -1,11 +1,8 @@
 {
-  "name": "react",
+  "name": "eval-1",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "5.16.4",
